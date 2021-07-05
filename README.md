@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <img src="https://tenor.com/view/baby-yoda-so-cute-the-mandalorian-hello-hi-gif-16772776.gif" width="100">
-![](https://komarev.com/ghpvc/?username=Viraj24Gupta&color=47ccb3) 
+![](https://komarev.com/ghpvc/?username=SudhanshuAgarwal786&color=47ccb3) 
 <BR/>◼I'm Sudhanshu Agarwal. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
 <BR/>◼A passionate learner and currently looking for internship opportunities.
 <BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FullStack WebDev.<hr>
