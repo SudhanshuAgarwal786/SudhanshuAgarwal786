@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=SudhanshuAgarwal786&color=47ccb3) 
 <BR/>◼I'm Sudhanshu Agarwal. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
 <BR/>◼A passionate learner and currently looking for internship opportunities.
-<BR/>◼Skilled in C/C++ , Data Structures and Algorithms, and FullStack WebDev.<hr>
+<BR/>◼Skilled in C/C++ , Data Structures and Algorithms, Data Science & learning WebDev.<hr>
 
 ![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhanshuAgarwal786&hide=stars,issues)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuAgarwal786)
