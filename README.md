@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <BR/>◼A passionate learner and currently looking for internship opportunities.
 <BR/>◼Skilled in C/C++ , Data Structures and Algorithms, Data Science & learning WebDev.<hr>
 
-![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhanshuAgarwal786&hide=stars,issues)<br/>
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuAgarwal786)
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/sudhanshu-agarwal/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a>
