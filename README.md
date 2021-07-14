@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <img src="https://tenor.com/view/hi-robot-gif-18871668" width="100">
+# <img src="https://tenor.com/bixwO.gif" width="100">
 ![](https://komarev.com/ghpvc/?username=SudhanshuAgarwal786&color=47ccb3) 
 <BR/>◼I'm Sudhanshu Agarwal. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
 <BR/>◼A passionate learner and currently looking for internship opportunities.
