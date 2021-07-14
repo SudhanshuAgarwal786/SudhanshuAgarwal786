@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuAgarwal786)
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/sudhanshu-agarwal/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a><br>
-<a href = "https://img.shields.io/github/followers/musk101?label=Follow&style=social"></a>
+<a href = "https://img.shields.io/github/followers/SudhanshuAgarwal786?label=Follow&style=social"></a>
