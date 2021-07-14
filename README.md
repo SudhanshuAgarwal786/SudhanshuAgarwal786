@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 # <img src="https://tenor.com/view/hi-robot-gif-18871668.gif" width="100">
 ![](https://komarev.com/ghpvc/?username=SudhanshuAgarwal786&color=47ccb3) 
-<BR/>- I'm Sudhanshu Agarwal. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. 
-<BR/>- A passionate learner and currently looking for internship opportunities.
-<BR/>- Skilled in C/C++ , Data Structures and Algorithms, Data Science & learning WebDev.<hr>
+- I'm Sudhanshu Agarwal. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science.
+- An enthusiastic student searching for entry level position openings.
+- Skilled in C/C++ , Data Structures and Algorithms, Data Science & learning.
+- Currently working on Natural Language Processing and AI.<hr>
 
 ![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=SudhanshuAgarwal786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuAgarwal786)
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/sudhanshu-agarwal/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a><br>
 <a href = "https://img.shields.io/github/followers/SudhanshuAgarwal786?label=Follow&style=social"></a>
+
