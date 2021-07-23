@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - Skilled in C/C++ , Data Structures and Algorithms, Data Science & learning.
 - Currently working on Natural Language Processing and AI.<hr>
 
-![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=SudhanshuAgarwal786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuAgarwal786)
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=SudhanshuAgarwal786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br/></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuAgarwal786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <hr><p align = "center">
 <a href = https://www.linkedin.com/in/sudhanshu-agarwal/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a><br><hr><p align = "center">
 <a href = mailto:sudhanshusanjay8@gmail.com target='blank'> <img src=https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg height='50' weight='35'/></a><br><hr><p align = "center">
