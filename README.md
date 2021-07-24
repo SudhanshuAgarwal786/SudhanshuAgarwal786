@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=SudhanshuAgarwal786&color=47ccb3) 
 - I'm Sudhanshu Agarwal. I'm currently pursuing my Bachelors Degree from VIT, Vellore in Computer Science.
 - An enthusiastic student searching for entry level position openings.
-- Proficient in C/C++ , Data Structures and Algorithms, Data Science & learning.
+- Proficient in C/C++ , Data Structures and Algorithms, Data Science.
 - Currently working on Natural Language Processing and AI.<hr>
 
 ![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=SudhanshuAgarwal786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br/></br>
