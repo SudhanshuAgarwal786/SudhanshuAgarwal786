@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **SudhanshuAgarwal786/SudhanshuAgarwal786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <img src="https://tenor.com/view/hi-robot-gif-18871668.gif" width="100">
+<!-- # <img src="https://tenor.com/view/hi-robot-gif-18871668.gif" width="100"> -->
 ![](https://komarev.com/ghpvc/?username=SudhanshuAgarwal786&color=47ccb3) 
 - I'm Sudhanshu Agarwal. I'm currently pursuing my Bachelors Degree from VIT, Vellore in Computer Science.
 - An enthusiastic student searching for entry level position openings.
