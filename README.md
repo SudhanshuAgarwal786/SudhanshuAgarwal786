@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=SudhanshuAgarwal786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br/></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuAgarwal786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <hr><p align = "center">
-<a href = https://www.linkedin.com/in/sudhanshu-agarwal/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a><br><hr><p align = "center">
-<a href = mailto:sudhanshusanjay8@gmail.com target='blank'> <img src=https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg height='50' weight='35'/></a><br><hr><p align = "center">
-<a href = https://instagram.com/sudhanshu.agarwal.007?utm_medium=copy_link target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='35' weight='35'/></a><br>
+<a href = https://www.linkedin.com/in/sudhanshu-agarwal/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='50' weight='35'/></a>&emsp;&emsp;
+<a href = mailto:sudhanshusanjay8@gmail.com target='blank'> <img src=https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg height='50' weight='35'/></a>&emsp;&emsp;
+<a href = https://instagram.com/sudhanshu.agarwal.007?utm_medium=copy_link target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='50' weight='35'/></a><br>
  
 
