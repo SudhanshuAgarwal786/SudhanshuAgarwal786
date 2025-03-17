@@ -2,7 +2,7 @@
 
 Data Scientist | ML Engineer | AI Researcher
 
-I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply interested in working on ** fine-tuning LLMs, search & retrieval systems, and machine learning**
+I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply interested in working on **fine-tuning LLMs, search & retrieval systems, and machine learning**
 
 ## 🚀 What I’m Into Lately -  
 -My role as an RA last summer introduced me to **genomics and bioinformatics**, where I learned how to apply **clustering, differential gene expression analysis, and integration techniques** to extract insights from biological data.  
