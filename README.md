@@ -1,12 +1,25 @@
-# 👋 Hey, I’m Sudhanshu Agarwal!  
+# 👋 Hey, I’m Sudhanshu Agarwal!
 
-I’m a **Data Science Master’s student at the University of Michigan, Ann Arbor**, deeply interested in **LLMs, search & retrieval, and machine learning**. I enjoy working on problems that push the boundaries of **how models learn, retrieve, and generate information**—whether that’s **fine-tuning LLMs, optimizing ranking models, or making deep learning more scalable**.  
+Data Scientist | ML Engineer | AI Researcher
 
-## 🚀 What I’m Into  
-🔍 **LLMs & Retrieval** – I love exploring **how large models process, retrieve, and rank information** to generate better, more context-aware responses.  
-⚡ **Efficiency in ML** – Making **models faster, leaner, and more effective**—because bigger isn’t always better.  
-🌱 **Always Learning** – Right now, I’m diving into **fine-tuning techniques, retrieval-augmented generation (RAG), and multi-modal learning**.  
-💡 **Building Cool Stuff** – Whether it's **a smart search system, a ranking algorithm, or a better way to fine-tune LLMs**, I’m always working on something interesting.  
+I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply interested in working on ** fine-tuning LLMs, search & retrieval systems, and machine learning**
+
+## 🚀 What I’m Into Lately -  
+-My role as an RA last summer introduced me to **genomics and bioinformatics**, where I learned how to apply **clustering, differential gene expression analysis, and integration techniques** to extract insights from biological data.  
+
+-Through a recent **IR project**, I explored **retrieval systems** by integrating **learning-to-rank models with LLMs** to improve **context-aware responses**.  
+
+-Working on deep learning optimization, I’ve learned how to make **ML systems faster, leaner, and more efficient**, balancing **performance with scalability**.  
+
+-Currently diving deeper into **fine-tuning techniques, RAG strategies, and multi-modal learning** to push model capabilities even further.
+
+-Experimenting with **different model architectures and attention mechanisms**, figuring out what works best for improving efficiency and accuracy.  
+
+
+## 🎖️ A Few Things I’m Proud Of  
+**Mitacs Globalink Graduate Fellowship** – Awarded for research in **LLMs & ML**.  
+**AWS Certified Cloud Practitioner** – Because **ML models need scalable cloud setups**.  
+**BCG Data Science & Advanced Analytics Program** – Hands-on experience with **business-driven ML solutions**.
 
 ## 💬 Let’s Connect  
 📩 **Email**: sudhagar@umich.edu  
@@ -15,4 +28,4 @@ I’m a **Data Science Master’s student at the University of Michigan, Ann Arb
 
 ---
 
-I’m always open to **learning, collaborating, and experimenting** with new ideas. If you're working on something exciting, let’s talk! 🚀  
+I’m always open to **learning, collaborating, and experimenting** with new ideas. If you're working on something exciting, let’s talk! 🚀
