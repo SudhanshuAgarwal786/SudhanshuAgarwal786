@@ -25,7 +25,7 @@ I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply inte
 
 ## 💬 Let’s Connect  
 📩 **Email**: sudhanshusanjay8@gmail.com  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/sudhanshu-agarwal/)  
+🔗 **LinkedIn**: [@sudhanshu-agarwal](https://www.linkedin.com/in/sudhanshu-agarwal/)
 
 ---
 
