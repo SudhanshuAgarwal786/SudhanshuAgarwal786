@@ -5,15 +5,17 @@ Data Scientist | ML Engineer | AI Researcher
 I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply interested in working on **fine-tuning LLMs, search & retrieval systems, and machine learning**
 
 ## 🚀 What I’m Into Lately -  
--My role as an RA last summer introduced me to **genomics and bioinformatics**, where I learned how to apply **clustering, differential gene expression analysis, and integration techniques** to extract insights from biological data.  
+- My role as an RA last summer introduced me to **genomics and bioinformatics**, where I learned how to apply **clustering, differential gene expression analysis, and integration techniques** to extract insights from biological data.  
 
--Through a recent **IR project**, I explored **retrieval systems** by integrating **learning-to-rank models with LLMs** to improve **context-aware responses**.  
+- Through a recent **IR project**, I explored **retrieval systems** by integrating **learning-to-rank models with LLMs and RAG pipelines** to improve **context-aware responses**.  
 
--Working on deep learning optimization, I’ve learned how to make **ML systems faster, leaner, and more efficient**, balancing **performance with scalability**.  
+- In **LLMs**, I worked on a **hybrid attention framework** integrating **GLA, Mamba blocks, and LoRA** to improve **efficiency and scalability**. This helped me understand **model optimization, inference speed, and balancing performance with resource constraints**.  
 
--Currently diving deeper into **fine-tuning techniques, RAG strategies, and multi-modal learning** to push model capabilities even further.
+- Working on deep learning optimization, I’ve learned how to make **ML systems faster, leaner, and more efficient**, balancing **performance with scalability**.  
 
--Experimenting with **different model architectures and attention mechanisms**, figuring out what works best for improving efficiency and accuracy.  
+- Currently diving deeper into **fine-tuning techniques, RAG strategies, and multi-modal learning** to push model capabilities even further.  
+
+- Experimenting with **different model architectures and attention mechanisms**, figuring out what works best for improving efficiency and accuracy.  
 
 
 ## 🎖️ A Few Things I’m Proud Of  
