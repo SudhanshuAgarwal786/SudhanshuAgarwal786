@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Sudhanshu !!
 
-Data Scientist | ML Engineer | AI Researcher
+Data Scientist | ML Engineer | LLMs, NLP & Scalable AI
 
 I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply interested in working on **fine-tuning LLMs, search & retrieval systems, and machine learning**
 
