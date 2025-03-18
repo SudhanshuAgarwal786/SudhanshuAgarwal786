@@ -19,7 +19,7 @@ I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply inte
 
 
 ## 🎖️ A Few Things I’m Proud Of  
-**Mitacs Globalink Graduate Fellowship** – Awarded for research in **LLMs & ML**.  
+**Mitacs Globalink Graduate Fellowship** – Awarded for my **research internship in Canada**, recognizing my work in **ML and AI applications**. 
 **AWS Certified Cloud Practitioner** – Because **ML models need scalable cloud setups**.  
 **BCG Data Science & Advanced Analytics Program** – Hands-on experience with **business-driven ML solutions**.
 
