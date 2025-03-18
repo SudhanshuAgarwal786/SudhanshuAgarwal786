@@ -22,7 +22,7 @@ I’m a **Data Science Master’s student at the UMich, Ann Arbor**, deeply inte
 **BCG Data Science & Advanced Analytics Program** – Hands-on experience with **business-driven ML solutions**.
 
 ## 💬 Let’s Connect  
-📩 **Email**: sudhanshusanjay8@gmail.com 
+📩 **Email**: sudhanshusanjay8@gmail.com  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/sudhanshu-agarwal/)  
 
 ---
